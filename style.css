@@ -1,0 +1,31 @@
+.rodape {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    background-color: antiquewhite;
+    color: #12171c;
+    font-size: 10px;
+    font-style: italic;
+}
+
+
+#camera {
+
+    height: 400px;
+    width: 500px;
+    border: 1px solid rgb(87, 2, 2);
+}
+
+
+img {
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px rgba(2, 2, 2, 0.2);
+}
+
+img:hover {
+    border-radius: 140px;
+}
